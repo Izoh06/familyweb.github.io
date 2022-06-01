@@ -1,0 +1,14 @@
+body{
+    background-color: #050534;
+    color: #fff;
+}
+
+.content{
+    text-align: center;
+    margin-top: 25%;
+}
+
+.history{
+    text-align: right;
+    margin-right: 5%;
+}
